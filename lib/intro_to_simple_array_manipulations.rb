@@ -9,3 +9,8 @@ end
 def using_uniq(a1)
   a1.uniq
 end
+
+def using_delete(a1, a2)
+  a1.delete(a2)
+end
+  
