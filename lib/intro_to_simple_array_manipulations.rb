@@ -1,3 +1,4 @@
 def using_concat
-  [ "a", "b" ].concat( ["c", "d"] )
+ 1.concat a2
+a1 + a2
 end
