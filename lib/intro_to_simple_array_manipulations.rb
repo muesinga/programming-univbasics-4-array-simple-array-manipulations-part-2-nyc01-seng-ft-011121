@@ -18,6 +18,6 @@ def using_delete(a1, a2)
   a1.delete(a2)
 end
 
-def using_delete_at
-  
+def using_delete_at(a1, i1)
+  a1.delete.at(i1)
 end
